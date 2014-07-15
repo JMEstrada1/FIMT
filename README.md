@@ -23,13 +23,8 @@ ___
 - Select the fire polygon.
 - Create new features template. 
 - Fire polygon; trace/reshape.
-<br>
-<br>
 
 
-		When dropping xy points:
-		+ Latitude; x
-		- Longitude; y
 
 <br>
 <br>
